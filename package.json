@@ -1,0 +1,9 @@
+{
+  "name": "sysdaemons",
+  "version": "1.0.0",
+  "description": "Application for sysadmin-daemons",
+  "main": "server.js",
+  "author": "Susanta Gautam",
+  "license": "MIT",
+  "private": null
+}
